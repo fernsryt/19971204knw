@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'https://twitter.com/19971204knw';
 
 // 修改网页标题：将 "𝐁𝐞𝐬𝐢𝐝𝐞 𝐠." 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '𝐁𝐞𝐬𝐢𝐝𝐞 𝐠.';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
